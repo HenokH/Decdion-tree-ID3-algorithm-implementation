@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tree>
+    <Node Class="Tree" Entropy="0.603" Value="----">
+        <safety Entropy="0" Value="low">unacc</safety>
+        <safety Entropy="0.608" Value="med">
+            <persons Entropy="0" Value="2">unacc</persons>
+            <persons Entropy="0.677" Value="4">
+                <buying Entropy="0.406" Value="vhigh">
+                    <maint Entropy="0" Value="vhigh">unacc</maint>
+                    <maint Entropy="0" Value="high">unacc</maint>
+                    <maint Entropy="0.5" Value="med">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">unacc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0.5" Value="low">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">unacc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                </buying>
+                <buying Entropy="0.477" Value="high">
+                    <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                    <lug_boot Entropy="0.477" Value="med">
+                        <doors Entropy="0" Value="2">unacc</doors>
+                        <doors Entropy="0" Value="3">unacc</doors>
+                        <doors Entropy="0.406" Value="4">
+                            <maint Entropy="0" Value="vhigh">unacc</maint>
+                            <maint Entropy="0" Value="high">acc</maint>
+                            <maint Entropy="0" Value="med">acc</maint>
+                            <maint Entropy="0" Value="low">acc</maint>
+                        </doors>
+                        <doors Entropy="0.406" Value="5more">
+                            <maint Entropy="0" Value="vhigh">unacc</maint>
+                            <maint Entropy="0" Value="high">acc</maint>
+                            <maint Entropy="0" Value="med">acc</maint>
+                            <maint Entropy="0" Value="low">acc</maint>
+                        </doors>
+                    </lug_boot>
+                    <lug_boot Entropy="0.406" Value="big">
+                        <maint Entropy="0" Value="vhigh">unacc</maint>
+                        <maint Entropy="0" Value="high">acc</maint>
+                        <maint Entropy="0" Value="med">acc</maint>
+                        <maint Entropy="0" Value="low">acc</maint>
+                    </lug_boot>
+                </buying>
+                <buying Entropy="0.649" Value="med">
+                    <maint Entropy="0.5" Value="vhigh">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">unacc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0.5" Value="high">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">unacc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0" Value="med">acc</maint>
+                    <maint Entropy="0.5" Value="low">
+                        <lug_boot Entropy="0" Value="small">acc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">good</lug_boot>
+                    </maint>
+                </buying>
+                <buying Entropy="0.649" Value="low">
+                    <maint Entropy="0.5" Value="vhigh">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">unacc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0" Value="high">acc</maint>
+                    <maint Entropy="0.5" Value="med">
+                        <lug_boot Entropy="0" Value="small">acc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">good</lug_boot>
+                    </maint>
+                    <maint Entropy="0.5" Value="low">
+                        <lug_boot Entropy="0" Value="small">acc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">good</lug_boot>
+                    </maint>
+                </buying>
+            </persons>
+            <persons Entropy="0.693" Value="more">
+                <buying Entropy="0.435" Value="vhigh">
+                    <maint Entropy="0" Value="vhigh">unacc</maint>
+                    <maint Entropy="0" Value="high">unacc</maint>
+                    <maint Entropy="0.49" Value="med">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0.49" Value="low">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                </buying>
+                <buying Entropy="0.494" Value="high">
+                    <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                    <lug_boot Entropy="0.494" Value="med">
+                        <doors Entropy="0" Value="2">unacc</doors>
+                        <doors Entropy="0.406" Value="3">
+                            <maint Entropy="0" Value="vhigh">unacc</maint>
+                            <maint Entropy="0" Value="high">acc</maint>
+                            <maint Entropy="0" Value="med">acc</maint>
+                            <maint Entropy="0" Value="low">acc</maint>
+                        </doors>
+                        <doors Entropy="0.406" Value="4">
+                            <maint Entropy="0" Value="vhigh">unacc</maint>
+                            <maint Entropy="0" Value="high">acc</maint>
+                            <maint Entropy="0" Value="med">acc</maint>
+                            <maint Entropy="0" Value="low">acc</maint>
+                        </doors>
+                        <doors Entropy="0.406" Value="5more">
+                            <maint Entropy="0" Value="vhigh">unacc</maint>
+                            <maint Entropy="0" Value="high">acc</maint>
+                            <maint Entropy="0" Value="med">acc</maint>
+                            <maint Entropy="0" Value="low">acc</maint>
+                        </doors>
+                    </lug_boot>
+                    <lug_boot Entropy="0.406" Value="big">
+                        <maint Entropy="0" Value="vhigh">unacc</maint>
+                        <maint Entropy="0" Value="high">acc</maint>
+                        <maint Entropy="0" Value="med">acc</maint>
+                        <maint Entropy="0" Value="low">acc</maint>
+                    </lug_boot>
+                </buying>
+                <buying Entropy="0.672" Value="med">
+                    <maint Entropy="0.49" Value="vhigh">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0.49" Value="high">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0.207" Value="med">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.64" Value="low">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">good</lug_boot>
+                    </maint>
+                </buying>
+                <buying Entropy="0.714" Value="low">
+                    <maint Entropy="0.49" Value="vhigh">
+                        <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                    </maint>
+                    <maint Entropy="0.207" Value="high">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.64" Value="med">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">good</lug_boot>
+                    </maint>
+                    <maint Entropy="0.64" Value="low">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">good</lug_boot>
+                    </maint>
+                </buying>
+            </persons>
+        </safety>
+        <safety Entropy="0.808" Value="high">
+            <persons Entropy="0" Value="2">unacc</persons>
+            <persons Entropy="0.829" Value="4">
+                <buying Entropy="0.5" Value="vhigh">
+                    <maint Entropy="0" Value="vhigh">unacc</maint>
+                    <maint Entropy="0" Value="high">unacc</maint>
+                    <maint Entropy="0" Value="med">acc</maint>
+                    <maint Entropy="0" Value="low">acc</maint>
+                </buying>
+                <buying Entropy="0.406" Value="high">
+                    <maint Entropy="0" Value="vhigh">unacc</maint>
+                    <maint Entropy="0" Value="high">acc</maint>
+                    <maint Entropy="0" Value="med">acc</maint>
+                    <maint Entropy="0" Value="low">acc</maint>
+                </buying>
+                <buying Entropy="0.649" Value="med">
+                    <maint Entropy="0" Value="vhigh">acc</maint>
+                    <maint Entropy="0" Value="high">acc</maint>
+                    <maint Entropy="0.5" Value="med">
+                        <lug_boot Entropy="0" Value="small">acc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                    <maint Entropy="0.5" Value="low">
+                        <lug_boot Entropy="0" Value="small">good</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">good</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                </buying>
+                <buying Entropy="0.781" Value="low">
+                    <maint Entropy="0" Value="vhigh">acc</maint>
+                    <maint Entropy="0.5" Value="high">
+                        <lug_boot Entropy="0" Value="small">acc</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                    <maint Entropy="0.5" Value="med">
+                        <lug_boot Entropy="0" Value="small">good</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">good</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                    <maint Entropy="0.5" Value="low">
+                        <lug_boot Entropy="0" Value="small">good</lug_boot>
+                        <lug_boot Entropy="0.5" Value="med">
+                            <doors Entropy="0" Value="2">good</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                </buying>
+            </persons>
+            <persons Entropy="0.85" Value="more">
+                <buying Entropy="0.497" Value="vhigh">
+                    <maint Entropy="0" Value="vhigh">unacc</maint>
+                    <maint Entropy="0" Value="high">unacc</maint>
+                    <maint Entropy="0.207" Value="med">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.207" Value="low">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                </buying>
+                <buying Entropy="0.448" Value="high">
+                    <maint Entropy="0" Value="vhigh">unacc</maint>
+                    <maint Entropy="0.207" Value="high">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.207" Value="med">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.207" Value="low">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                </buying>
+                <buying Entropy="0.798" Value="med">
+                    <maint Entropy="0.207" Value="vhigh">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.207" Value="high">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.64" Value="med">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">vgood</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                    <maint Entropy="0.64" Value="low">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">good</doors>
+                            <doors Entropy="0" Value="3">vgood</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                </buying>
+                <buying Entropy="0.888" Value="low">
+                    <maint Entropy="0.207" Value="vhigh">
+                        <doors Entropy="0.459" Value="2">
+                            <lug_boot Entropy="0" Value="small">unacc</lug_boot>
+                            <lug_boot Entropy="0" Value="med">acc</lug_boot>
+                            <lug_boot Entropy="0" Value="big">acc</lug_boot>
+                        </doors>
+                        <doors Entropy="0" Value="3">acc</doors>
+                        <doors Entropy="0" Value="4">acc</doors>
+                        <doors Entropy="0" Value="5more">acc</doors>
+                    </maint>
+                    <maint Entropy="0.64" Value="high">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">acc</doors>
+                            <doors Entropy="0" Value="4">acc</doors>
+                            <doors Entropy="0" Value="5more">acc</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">acc</doors>
+                            <doors Entropy="0" Value="3">vgood</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                    <maint Entropy="0.64" Value="med">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">good</doors>
+                            <doors Entropy="0" Value="3">vgood</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                    <maint Entropy="0.64" Value="low">
+                        <lug_boot Entropy="0.406" Value="small">
+                            <doors Entropy="0" Value="2">unacc</doors>
+                            <doors Entropy="0" Value="3">good</doors>
+                            <doors Entropy="0" Value="4">good</doors>
+                            <doors Entropy="0" Value="5more">good</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0.406" Value="med">
+                            <doors Entropy="0" Value="2">good</doors>
+                            <doors Entropy="0" Value="3">vgood</doors>
+                            <doors Entropy="0" Value="4">vgood</doors>
+                            <doors Entropy="0" Value="5more">vgood</doors>
+                        </lug_boot>
+                        <lug_boot Entropy="0" Value="big">vgood</lug_boot>
+                    </maint>
+                </buying>
+            </persons>
+        </safety>
+    </Node>
+</Tree>
